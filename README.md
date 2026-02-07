@@ -2,7 +2,7 @@ Download & Run Guide
 Overview
 This project is a Pharmacy Management System that integrates:
 •	SQL Server database
-•	C# application (Visual Studio)
+•	C# application -ASP.NET (Visual Studio) 
 •	Python scripts (Map & Reminder) using Visual Studio Code
 
 Requirements

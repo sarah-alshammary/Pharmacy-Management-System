@@ -1,0 +1,490 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sarah\\Desktop\\pharmacy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|C:\\Users\\sarah\\Desktop\\pharmacy\\function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|solutionrelative:function.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|c:\\users\\sarah\\desktop\\pharmacy\\pharmacist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|solutionrelative:pharmacist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|C:\\Users\\sarah\\Desktop\\pharmacy\\pharmacistuc\\uc_p_updatemedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|solutionrelative:pharmacistuc\\uc_p_updatemedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|C:\\Users\\sarah\\Desktop\\pharmacy\\customerregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|solutionrelative:customerregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|C:\\Users\\sarah\\Desktop\\pharmacy\\customerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|solutionrelative:customerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|C:\\Users\\sarah\\Desktop\\pharmacy\\customerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|solutionrelative:customerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|C:\\Users\\sarah\\Desktop\\pharmacy\\administratoruc\\uc_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|solutionrelative:administratoruc\\uc_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|C:\\Users\\sarah\\Desktop\\pharmacy\\administratoruc\\uc_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|solutionrelative:administratoruc\\uc_adduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|C:\\Users\\sarah\\Desktop\\pharmacy\\administratoruc\\uc_assignpharmacisttocustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|solutionrelative:administratoruc\\uc_assignpharmacisttocustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|C:\\Users\\sarah\\Desktop\\pharmacy\\administratoruc\\uc_assignpharmacisttocustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|solutionrelative:administratoruc\\uc_assignpharmacisttocustomers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|C:\\Users\\sarah\\Desktop\\pharmacy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|C:\\Users\\sarah\\Desktop\\pharmacy\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|solutionrelative:session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|C:\\Users\\sarah\\Desktop\\pharmacy\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|C:\\Users\\sarah\\Desktop\\pharmacy\\pharmacistuc\\uc_p_customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|solutionrelative:pharmacistuc\\uc_p_customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|C:\\Users\\sarah\\Desktop\\pharmacy\\pharmacistuc\\uc_p_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|solutionrelative:pharmacistuc\\uc_p_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|C:\\Users\\sarah\\Desktop\\pharmacy\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|solutionrelative:administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|C:\\Users\\sarah\\Desktop\\pharmacy\\pharmacist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|solutionrelative:pharmacist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|C:\\Users\\sarah\\Desktop\\pharmacy\\administratoruc\\uc_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|solutionrelative:administratoruc\\uc_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|C:\\Users\\sarah\\Desktop\\pharmacy\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|solutionrelative:customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|C:\\Users\\sarah\\Desktop\\pharmacy\\pharmacistuc\\uc_p_viewmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|solutionrelative:pharmacistuc\\uc_p_viewmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|C:\\Users\\sarah\\Desktop\\pharmacy\\pharmacistuc\\uc_p_sellmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|solutionrelative:pharmacistuc\\uc_p_sellmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|C:\\Users\\sarah\\Desktop\\pharmacy\\pharmacistuc\\uc_p_medicinevaliditycheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|solutionrelative:pharmacistuc\\uc_p_medicinevaliditycheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|C:\\Users\\sarah\\Desktop\\pharmacy\\pharmacistuc\\uc_p_addmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|solutionrelative:pharmacistuc\\uc_p_addmedicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|C:\\Users\\sarah\\Desktop\\pharmacy\\customeruc\\uc_profile1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|solutionrelative:customeruc\\uc_profile1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|C:\\Users\\sarah\\Desktop\\pharmacy\\customeruc\\uc_medicine1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|solutionrelative:customeruc\\uc_medicine1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|C:\\Users\\sarah\\Desktop\\pharmacy\\administratoruc\\uc_viewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|solutionrelative:administratoruc\\uc_viewuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|C:\\Users\\sarah\\Desktop\\pharmacy\\administratoruc\\uc_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|solutionrelative:administratoruc\\uc_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|C:\\Users\\sarah\\Desktop\\pharmacy\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|solutionrelative:administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|C:\\Users\\sarah\\Desktop\\pharmacy\\administratoruc\\uc_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|solutionrelative:administratoruc\\uc_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|C:\\Users\\sarah\\Desktop\\pharmacy\\administratoruc\\uc_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28C6F42E-99A0-4903-82E0-05FBE0F24442}|Pharmacy.csproj|solutionrelative:administratoruc\\uc_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UC_AddUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sarah\\Desktop\\pharmacy\\AdministratorUC\\UC_AddUser.cs",
+              "RelativeDocumentMoniker": "AdministratorUC\\UC_AddUser.cs",
+              "ToolTip": "C:\\Users\\sarah\\Desktop\\pharmacy\\AdministratorUC\\UC_AddUser.cs [Design]",
+              "RelativeToolTip": "AdministratorUC\\UC_AddUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T11:27:22.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UC_AddUser.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\Desktop\\pharmacy\\AdministratorUC\\UC_AddUser.cs",
+              "RelativeDocumentMoniker": "AdministratorUC\\UC_AddUser.cs",
+              "ToolTip": "C:\\Users\\sarah\\Desktop\\pharmacy\\AdministratorUC\\UC_AddUser.cs",
+              "RelativeToolTip": "AdministratorUC\\UC_AddUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T11:27:23.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerRegister.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sarah\\Desktop\\pharmacy\\CustomerRegister.cs",
+              "RelativeDocumentMoniker": "CustomerRegister.cs",
+              "ToolTip": "C:\\Users\\sarah\\Desktop\\pharmacy\\CustomerRegister.cs [Design]",
+              "RelativeToolTip": "CustomerRegister.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T12:22:37.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UC_P_UpdateMedicine.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sarah\\Desktop\\pharmacy\\PharmacistUC\\UC_P_UpdateMedicine.cs",
+              "RelativeDocumentMoniker": "PharmacistUC\\UC_P_UpdateMedicine.cs",
+              "ToolTip": "C:\\Users\\sarah\\Desktop\\pharmacy\\PharmacistUC\\UC_P_UpdateMedicine.cs [Design]",
+              "RelativeToolTip": "PharmacistUC\\UC_P_UpdateMedicine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T12:14:46.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pharmacist.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sarah\\Desktop\\pharmacy\\Pharmacist.cs",
+              "RelativeDocumentMoniker": "Pharmacist.cs",
+              "ToolTip": "C:\\Users\\sarah\\Desktop\\pharmacy\\Pharmacist.cs [Design]",
+              "RelativeToolTip": "Pharmacist.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T12:24:06.227Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "function.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\Desktop\\pharmacy\\function.cs",
+              "RelativeDocumentMoniker": "function.cs",
+              "ToolTip": "C:\\Users\\sarah\\Desktop\\pharmacy\\function.cs",
+              "RelativeToolTip": "function.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T15:15:49.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UC_AssignPharmacistToCustomers.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\Desktop\\pharmacy\\AdministratorUC\\UC_AssignPharmacistToCustomers.cs",
+              "RelativeDocumentMoniker": "AdministratorUC\\UC_AssignPharmacistToCustomers.cs",
+              "ToolTip": "C:\\Users\\sarah\\Desktop\\pharmacy\\AdministratorUC\\UC_AssignPharmacistToCustomers.cs",
+              "RelativeToolTip": "AdministratorUC\\UC_AssignPharmacistToCustomers.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T11:31:56.389Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerInfo.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\Desktop\\pharmacy\\CustomerInfo.cs",
+              "RelativeDocumentMoniker": "CustomerInfo.cs",
+              "ToolTip": "C:\\Users\\sarah\\Desktop\\pharmacy\\CustomerInfo.cs",
+              "RelativeToolTip": "CustomerInfo.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAqwEQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-11T04:09:20.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UC_AssignPharmacistToCustomers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sarah\\Desktop\\pharmacy\\AdministratorUC\\UC_AssignPharmacistToCustomers.cs",
+              "RelativeDocumentMoniker": "AdministratorUC\\UC_AssignPharmacistToCustomers.cs",
+              "ToolTip": "C:\\Users\\sarah\\Desktop\\pharmacy\\AdministratorUC\\UC_AssignPharmacistToCustomers.cs [Design]",
+              "RelativeToolTip": "AdministratorUC\\UC_AssignPharmacistToCustomers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T11:31:55.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UC_P_Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sarah\\Desktop\\pharmacy\\PharmacistUC\\UC_P_Dashboard.cs",
+              "RelativeDocumentMoniker": "PharmacistUC\\UC_P_Dashboard.cs",
+              "ToolTip": "C:\\Users\\sarah\\Desktop\\pharmacy\\PharmacistUC\\UC_P_Dashboard.cs [Design]",
+              "RelativeToolTip": "PharmacistUC\\UC_P_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T12:10:57.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerInfo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sarah\\Desktop\\pharmacy\\CustomerInfo.cs",
+              "RelativeDocumentMoniker": "CustomerInfo.cs",
+              "ToolTip": "C:\\Users\\sarah\\Desktop\\pharmacy\\CustomerInfo.cs [Design]",
+              "RelativeToolTip": "CustomerInfo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T12:20:37.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sarah\\Desktop\\pharmacy\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\sarah\\Desktop\\pharmacy\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T12:57:50.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\Desktop\\pharmacy\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\sarah\\Desktop\\pharmacy\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T12:57:57.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\Desktop\\pharmacy\\Session.cs",
+              "RelativeDocumentMoniker": "Session.cs",
+              "ToolTip": "C:\\Users\\sarah\\Desktop\\pharmacy\\Session.cs",
+              "RelativeToolTip": "Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T15:22:48.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UC_Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sarah\\Desktop\\pharmacy\\AdministratorUC\\UC_Dashboard.cs",
+              "RelativeDocumentMoniker": "AdministratorUC\\UC_Dashboard.cs",
+              "ToolTip": "C:\\Users\\sarah\\Desktop\\pharmacy\\AdministratorUC\\UC_Dashboard.cs [Design]",
+              "RelativeToolTip": "AdministratorUC\\UC_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T11:28:33.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Administrator.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sarah\\Desktop\\pharmacy\\Administrator.cs",
+              "RelativeDocumentMoniker": "Administrator.cs",
+              "ToolTip": "C:\\Users\\sarah\\Desktop\\pharmacy\\Administrator.cs [Design]",
+              "RelativeToolTip": "Administrator.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T11:39:55.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UC_P_Customers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sarah\\Desktop\\pharmacy\\PharmacistUC\\UC_P_Customers.cs",
+              "RelativeDocumentMoniker": "PharmacistUC\\UC_P_Customers.cs",
+              "ToolTip": "C:\\Users\\sarah\\Desktop\\pharmacy\\PharmacistUC\\UC_P_Customers.cs [Design]",
+              "RelativeToolTip": "PharmacistUC\\UC_P_Customers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T12:07:15.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Pharmacist.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\Desktop\\pharmacy\\Pharmacist.cs",
+              "RelativeDocumentMoniker": "Pharmacist.cs",
+              "ToolTip": "C:\\Users\\sarah\\Desktop\\pharmacy\\Pharmacist.cs",
+              "RelativeToolTip": "Pharmacist.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAvwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T12:26:37.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UC_P_ViewMedicine.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sarah\\Desktop\\pharmacy\\PharmacistUC\\UC_P_ViewMedicine.cs",
+              "RelativeDocumentMoniker": "PharmacistUC\\UC_P_ViewMedicine.cs",
+              "ToolTip": "C:\\Users\\sarah\\Desktop\\pharmacy\\PharmacistUC\\UC_P_ViewMedicine.cs [Design]",
+              "RelativeToolTip": "PharmacistUC\\UC_P_ViewMedicine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T12:16:47.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "customer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sarah\\Desktop\\pharmacy\\customer.cs",
+              "RelativeDocumentMoniker": "customer.cs",
+              "ToolTip": "C:\\Users\\sarah\\Desktop\\pharmacy\\customer.cs [Design]",
+              "RelativeToolTip": "customer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T12:19:37.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UC_P_SellMedicine.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sarah\\Desktop\\pharmacy\\PharmacistUC\\UC_P_SellMedicine.cs",
+              "RelativeDocumentMoniker": "PharmacistUC\\UC_P_SellMedicine.cs",
+              "ToolTip": "C:\\Users\\sarah\\Desktop\\pharmacy\\PharmacistUC\\UC_P_SellMedicine.cs [Design]",
+              "RelativeToolTip": "PharmacistUC\\UC_P_SellMedicine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T12:13:51.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UC_P_MedicineValidityCheck.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sarah\\Desktop\\pharmacy\\PharmacistUC\\UC_P_MedicineValidityCheck.cs",
+              "RelativeDocumentMoniker": "PharmacistUC\\UC_P_MedicineValidityCheck.cs",
+              "ToolTip": "C:\\Users\\sarah\\Desktop\\pharmacy\\PharmacistUC\\UC_P_MedicineValidityCheck.cs [Design]",
+              "RelativeToolTip": "PharmacistUC\\UC_P_MedicineValidityCheck.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T12:11:39.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UC_P_AddMedicine.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sarah\\Desktop\\pharmacy\\PharmacistUC\\UC_P_AddMedicine.cs",
+              "RelativeDocumentMoniker": "PharmacistUC\\UC_P_AddMedicine.cs",
+              "ToolTip": "C:\\Users\\sarah\\Desktop\\pharmacy\\PharmacistUC\\UC_P_AddMedicine.cs [Design]",
+              "RelativeToolTip": "PharmacistUC\\UC_P_AddMedicine.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T12:05:22.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UC_Profile1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sarah\\Desktop\\pharmacy\\CustomerUC\\UC_Profile1.cs",
+              "RelativeDocumentMoniker": "CustomerUC\\UC_Profile1.cs",
+              "ToolTip": "C:\\Users\\sarah\\Desktop\\pharmacy\\CustomerUC\\UC_Profile1.cs [Design]",
+              "RelativeToolTip": "CustomerUC\\UC_Profile1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T12:03:19.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UC_Medicine1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sarah\\Desktop\\pharmacy\\CustomerUC\\UC_Medicine1.cs",
+              "RelativeDocumentMoniker": "CustomerUC\\UC_Medicine1.cs",
+              "ToolTip": "C:\\Users\\sarah\\Desktop\\pharmacy\\CustomerUC\\UC_Medicine1.cs [Design]",
+              "RelativeToolTip": "CustomerUC\\UC_Medicine1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T12:03:03.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UC_ViewUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sarah\\Desktop\\pharmacy\\AdministratorUC\\UC_ViewUser.cs",
+              "RelativeDocumentMoniker": "AdministratorUC\\UC_ViewUser.cs",
+              "ToolTip": "C:\\Users\\sarah\\Desktop\\pharmacy\\AdministratorUC\\UC_ViewUser.cs [Design]",
+              "RelativeToolTip": "AdministratorUC\\UC_ViewUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T11:56:18.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Administrator.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\Desktop\\pharmacy\\Administrator.cs",
+              "RelativeDocumentMoniker": "Administrator.cs",
+              "ToolTip": "C:\\Users\\sarah\\Desktop\\pharmacy\\Administrator.cs",
+              "RelativeToolTip": "Administrator.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAFAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T11:40:42.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UC_Profile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sarah\\Desktop\\pharmacy\\AdministratorUC\\UC_Profile.cs",
+              "RelativeDocumentMoniker": "AdministratorUC\\UC_Profile.cs",
+              "ToolTip": "C:\\Users\\sarah\\Desktop\\pharmacy\\AdministratorUC\\UC_Profile.cs [Design]",
+              "RelativeToolTip": "AdministratorUC\\UC_Profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T11:26:15.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UC_Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\Desktop\\pharmacy\\AdministratorUC\\UC_Dashboard.cs",
+              "RelativeDocumentMoniker": "AdministratorUC\\UC_Dashboard.cs",
+              "ToolTip": "C:\\Users\\sarah\\Desktop\\pharmacy\\AdministratorUC\\UC_Dashboard.cs",
+              "RelativeToolTip": "AdministratorUC\\UC_Dashboard.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T11:28:34.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UC_Profile.cs",
+              "DocumentMoniker": "C:\\Users\\sarah\\Desktop\\pharmacy\\AdministratorUC\\UC_Profile.cs",
+              "RelativeDocumentMoniker": "AdministratorUC\\UC_Profile.cs",
+              "ToolTip": "C:\\Users\\sarah\\Desktop\\pharmacy\\AdministratorUC\\UC_Profile.cs",
+              "RelativeToolTip": "AdministratorUC\\UC_Profile.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T11:26:17.756Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

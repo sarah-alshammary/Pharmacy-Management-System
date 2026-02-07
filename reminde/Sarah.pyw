@@ -7,9 +7,9 @@ import tkinter as tk
 from tkinter import messagebox
 
 # ---------- EMAIL SETTINGS ----------
-SENDER_EMAIL = "sarahalshammary252002@gmail.com"
-SENDER_PASSWORD = "fckcesiezsvcatkt"
-PATIENT_EMAIL = "sarahalshammary3@gmail.com"
+SENDER_EMAIL = "your_email@gmail.com"
+SENDER_PASSWORD = "YOUR_GMAIL_APP_PASSWORD"
+PATIENT_EMAIL = "patient_email@gmail.com"
 
 EMAIL_SUBJECT = "Medication Reminder"
 EMAIL_BODY = """
